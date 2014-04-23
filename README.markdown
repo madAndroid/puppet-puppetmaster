@@ -7,6 +7,7 @@ Dependencies
 ------------
 
 - [stdlib](https://github.com/puppetlabs/puppetlabs-stdlib)
+- [puppet-upstart](https://github.com/bison/puppet-upstart)
 
 Copyright and License
 ---------------------
